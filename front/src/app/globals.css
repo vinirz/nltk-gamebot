@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+::-webkit-scrollbar {
+   width: 8px;
+ }
+ 
+ ::-webkit-scrollbar-track {
+   background-color: #d4d4d8; /* Tailwind bg-zinc-300 */
+   border-radius: 9999px;
+ }
+ 
+ ::-webkit-scrollbar-thumb {
+   background-color: #a1a1aa; /* Tailwind bg-zinc-500 para o thumb */
+   border-radius: 9999px;
+ }
+ 
+ ::-webkit-scrollbar-thumb:hover {
+   background-color: #71717a; /* Tailwind bg-zinc-600 */
+ }
