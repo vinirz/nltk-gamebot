@@ -44,9 +44,9 @@ export default function Home() {
         
         <div className="w-full flex items-center gap-4 text-xl font-semibold bg-white/60 backdrop-blur-md p-5 border-b border-zinc-200">
           <img 
-            src="/public/gamebot-profilepic.jpg"
-            alt="GameBot profile image" 
-            className="w-10 h-10 rounded-full object-cover border border-purple-700"
+            src="gamebot-profilepic.jpg"
+            alt="GameBot profile picture image" 
+            className="w-10 h-10 rounded-full object-contain border border-zinc-950"
           />
           <h1 className="text-zinc-900">GameBot</h1>
         </div>
