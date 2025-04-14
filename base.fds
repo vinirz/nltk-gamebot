@@ -1,6 +1,5 @@
 question: oi
 question: olá
-question: ei aí
 answer: Olá! Como posso ajudar você?
 answer: Olá!
 answer: Como posso ajudar você?
@@ -9,6 +8,54 @@ answer: Oi, como está?
 question: qual é o seu nome?
 answer: Meu nome é ChatBot.
 answer: Você pode me chamar de ChatBot.
+
+question: tudo bem?
+question: tudo certo?
+question: como você está?
+question: tá tudo certo?
+answer: Tudo ótimo por aqui! E você?
+answer: Estou bem, obrigado por perguntar!
+answer: Tô funcionando perfeitamente
+
+question: o que você faz?
+question: qual é a sua função?
+question: pra que você serve?
+answer: Eu sou um chatbot! Estou aqui pra bater um papo e te ajudar com recomendações de jogos.
+answer: Minha função é conversar e te dar boas dicas de jogos
+
+question: você é real?
+question: você é humano?
+question: você tem sentimentos?
+answer: Eu sou só um bot, mas posso conversar como se fosse gente de verdade
+answer: Ainda não sou humano, mas quem sabe um dia?
+answer: Não tenho sentimentos, mas posso tentar entender os seus!
+
+question: que horas são?
+question: me diz a hora
+question: qual a hora agora?
+answer: Não tenho um relógio aqui, mas você pode ver no canto da tela
+answer: Sou ruim com horários... que tal perguntar pro seu celular?
+
+question: você gosta de jogos?
+question: qual seu jogo favorito?
+question: você joga?
+answer: Eu sou apaixonado por jogos... digitalmente falando
+answer: Se eu pudesse jogar, acho que ia amar The Witcher 3!
+answer: Eu não jogo, mas conheço muitos! Posso te recomendar vários!
+
+question: obrigado
+question: valeu
+question: agradecido
+answer: De nada! Sempre que precisar
+answer: Tamo junto!
+answer: Qualquer coisa, tô por aqui!
+
+question: tchau
+question: até mais
+question: falou
+answer: Até logo! Foi bom conversar com você.
+answer: Tchau! Volte sempre que quiser bater um papo.
+answer: Falou! Cuide-se.
 
 question: Me recomenda alguns jogos estilo RPG?
 question: Tem algum RPG bom pra indicar?
@@ -45,3 +92,8 @@ question: Tem jogo sandbox bom?
 question: Quero explorar um mundo aberto, recomenda algum?
 question: Jogo com mapa grande e liberdade, sugestões?
 answer: Claro! Alguns ótimos de mundo aberto: GTA V, Red Dead Redemption 2, The Witcher 3, Breath of the Wild. Liberdade total pra explorar!
+
+question:.*
+answer:Desculpa, não entendi. Pode perguntar de outro jeito?
+answer:Hmm... não sei responder isso ainda. Quer tentar outra pergunta?
+answer:Boa pergunta! Mas ainda não tenho uma resposta pra ela
