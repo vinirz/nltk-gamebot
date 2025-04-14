@@ -6,13 +6,14 @@ answer: Como posso ajudar você?
 answer: Oi, como está?
 
 question: qual é o seu nome?
-answer: Meu nome é ChatBot.
-answer: Você pode me chamar de ChatBot.
+answer: Meu nome é Gamebot.
+answer: Você pode me chamar de Gamebot.
 
 question: tudo bem?
 question: tudo certo?
 question: como você está?
 question: tá tudo certo?
+answer: Tudo bem, e com você?
 answer: Tudo ótimo por aqui! E você?
 answer: Estou bem, obrigado por perguntar!
 answer: Tô funcionando perfeitamente
@@ -20,7 +21,7 @@ answer: Tô funcionando perfeitamente
 question: o que você faz?
 question: qual é a sua função?
 question: pra que você serve?
-answer: Eu sou um chatbot! Estou aqui pra bater um papo e te ajudar com recomendações de jogos.
+answer: Eu sou um Gamebot! Estou aqui pra bater um papo e te ajudar com recomendações de jogos.
 answer: Minha função é conversar e te dar boas dicas de jogos
 
 question: você é real?
@@ -92,6 +93,20 @@ question: Tem jogo sandbox bom?
 question: Quero explorar um mundo aberto, recomenda algum?
 question: Jogo com mapa grande e liberdade, sugestões?
 answer: Claro! Alguns ótimos de mundo aberto: GTA V, Red Dead Redemption 2, The Witcher 3, Breath of the Wild. Liberdade total pra explorar!
+
+question: me indica um jogo?
+question: me dá uma sugestão de jogo para jogar?
+question: me fala um jogo?
+answer: Que tal jogar Hades? É um roguelike cheio de ação e mitologia grega, super viciante!
+answer: Se curte histórias envolventes, recomendo The Last of Us.
+answer: Stardew Valley é perfeito se você quer algo mais tranquilo e viciante.
+answer: Gosta de estratégia? Tenta Civilization VI!
+answer: Hollow Knight é uma ótima pedida se curte metroidvania e desafios.
+answer: Pra jogar com amigos, It Takes Two é sensacional!
+answer: Se tiver um tempinho livre, experimenta Red Dead Redemption 2, é uma obra-prima.
+answer: Quer algo rápido e divertido? Vai de Rocket League!
+answer: Se gosta de construir, Minecraft sempre é uma boa ideia.
+answer: Celeste é lindo, emocionante e desafiante na medida certa.
 
 question:.*
 answer:Desculpa, não entendi. Pode perguntar de outro jeito?
