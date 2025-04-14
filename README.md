@@ -1,6 +1,6 @@
 # 🕹️ nltk-gamebot
 
-Este é um chatbot interativo chamado **GameBot**, criado com Python (usando NLTK) no backend e um frontend em JavaScript utilizando Node.js e Vite. O objetivo do projeto é fornecer uma interface de conversa com o bot para interações relacionadas a jogos.
+Este é um chatbot interativo chamado **GameBot**, criado com Python (usando NLTK) no backend e um frontend em JavaScript utilizando Next.js. O objetivo do projeto é fornecer uma interface de conversa com o bot para interações relacionadas a jogos.
 
 ## 🚀 Como rodar o projeto
 
@@ -60,7 +60,7 @@ npm run dev
 Com o backend e o frontend rodando, abra o navegador e acesse:
 
 ```
-http://localhost:5173
+http://localhost:3000
 ```
 
 Pronto! Agora você pode conversar com o **GameBot** diretamente no seu navegador. 🎮
